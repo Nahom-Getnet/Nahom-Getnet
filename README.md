@@ -2,38 +2,73 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&width=435&lines=Computer+Science+Student;Building+Software+Foundations" alt="Typing SVG" />
 
-I'm a Computer Science student focused on mastering core computing fundamentals and preparing for upcoming hackathons.
+I'm a Computer Science student focused on solidifying core computing fundamentals and diving into practical software development. 
 
-> *Constantly leveling up and picking up new tools along the way.*
-
----
-
-## 🛠️ Tech Stack & Skills
-Here are the languages I work with and the areas I am actively exploring:
-
-💻 **Languages & Frameworks:**
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
-
-🚀 **Current Focus Areas:**
-- 🌐 **Full-Stack Web Development** (Building end-to-end applications)
-- 🖥️ **Frontend Engineering** (Crafting clean user interfaces)
-- 🗄️ **Database Systems** (Structuring and managing data)
-- 🧠 **Algorithms & Data Structures** (Solving complex problems efficiently)
+> Down the rabbit hole of software engineering—constantly picking up new tools and breaking things until they work.
 
 ---
 
-## 📊 My GitHub Stats
-*These cards will automatically update as you write and push code during your upcoming hackathons.*
+### Tech Stack & Tools
+The languages and technologies I'm working with to build projects:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nahom-Getnet&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Nahom's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahom-Getnet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/python" width="48" height="48" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/cplusplus" width="48" height="48" alt="C++" />
+      <br />C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/java" width="48" height="48" alt="Java" />
+      <br />Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/javascript" width="48" height="48" alt="JavaScript" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/react" width="48" height="48" alt="React" />
+      <br />React
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/html5" width="48" height="48" alt="HTML5" />
+      <br />HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/css3" width="48" height="48" alt="CSS3" />
+      <br />CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/mysql" width="48" height="48" alt="MySQL" />
+      <br />MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/git" width="48" height="48" alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="96">
+      <!-- Empty slot for grid balance -->
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
-- ✉️ Open to connecting for team projects or hackathon builds.
+### What I'm Exploring Right Now
+Instead of just tracking coursework, I'm using upcoming hackathons to get hands-on with:
+
+* **Full-Stack & Frontend:** Crafting clean interfaces with React and connecting them to functional backends.
+* **Data Management:** Getting comfortable structuring database systems and handling queries smoothly.
+* **Core Logic:** Leveling up on algorithms and data structures to write efficient, clean code.
+
+---
+
+### Let's Connect
+If you are putting together a team for a hackathon or want to collaborate on an open-source build, let's get to work.
+
+* **Email:** [Your Email Here]
