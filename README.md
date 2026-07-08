@@ -4,55 +4,54 @@
 
 I'm a Computer Science student focused on solidifying core computing fundamentals and diving into practical software development. 
 
-> Down the rabbit hole of software engineering—constantly picking up new tools and breaking things until they work.
+> Focused on picking up new tools and building clean software that works.
 
 ---
 
 ### Tech Stack & Tools
-The languages and technologies I'm working with to build projects:
 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/python" width="48" height="48" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
       <br />Python
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/cplusplus" width="48" height="48" alt="C++" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
       <br />C++
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/java" width="48" height="48" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
       <br />Java
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/javascript" width="48" height="48" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
       <br />JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/react" width="48" height="48" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
       <br />React
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/html5" width="48" height="48" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
       <br />HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/css3" width="48" height="48" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
       <br />CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/mysql" width="48" height="48" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
       <br />MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/git" width="48" height="48" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
       <br />Git
     </td>
     <td align="center" width="96">
-      <!-- Empty slot for grid balance -->
+      <!-- Grid Balance -->
     </td>
   </tr>
 </table>
@@ -64,11 +63,9 @@ Instead of just tracking coursework, I'm using upcoming hackathons to get hands-
 
 * **Full-Stack & Frontend:** Crafting clean interfaces with React and connecting them to functional backends.
 * **Data Management:** Getting comfortable structuring database systems and handling queries smoothly.
-* **Core Logic:** Leveling up on algorithms and data structures to write efficient, clean code.
+* **Core Logic:** Leveling up on algorithms and data structures to write efficient code.
 
 ---
 
 ### Let's Connect
-If you are putting together a team for a hackathon or want to collaborate on an open-source build, let's get to work.
-
-* **Email:** [Your Email Here]
+* **Email:** nahigetnet@gmail.com
